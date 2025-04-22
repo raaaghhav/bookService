@@ -1,0 +1,12 @@
+---
+## 📌 Requirements
+
+- Node.js
+- MongoDB connection URI (MongoDB Atlas or Local)
+
+---
+## ⚙️ Installation
+
+git clone https://github.com/raaaghhav/bookService.git
+cd bookService
+npm install
